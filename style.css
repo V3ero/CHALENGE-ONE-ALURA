@@ -13,9 +13,54 @@
     --semi_preto : #2d2e2c;
 }
 
-body{
+main{
     background-color: var(--bege_light);
+
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
+
+#secao_input{
+
+}
+
+.logo{
+
+}
+
+#texto_entrada{
+
+}
+
+.secao_botoes{
+
+}
+
+.botoes_principais{
+
+}
+
+#secao_output{
+
+}
+
+.ilustracao{
+
+}
+
+#texto_saida{
+
+}
+
+.botao_copiar{
+    
+}
+
+
 
 
 
