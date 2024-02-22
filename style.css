@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    outline: none;
+    box-sizing: border-box;
+}
+
+:root{
+    --bege_light : #f7dece;
+    --bege_mediun : #eed7c5;
+    --verde_pastel : #ccccbb;
+    --azul_claro : #9ec4bb;
+    --semi_preto : #2d2e2c;
+}
+
+body{
+    background-color: var(--bege_light);
+}
+
+
+
